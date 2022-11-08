@@ -1,1 +1,2 @@
 1.crecion del archivo txt
+2. agrego un segundo commit
